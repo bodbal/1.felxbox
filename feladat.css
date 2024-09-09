@@ -1,0 +1,94 @@
+#asd{
+    display: flex;
+    justify-content: center;
+
+}
+
+#flex-container1{
+    width: 100%;
+    height: 300px;
+    background-color: green;
+}
+#flex-container2{
+    width: 100%;
+    height: 300px;
+    background-color: yellow;
+    
+}
+#flex-container3{
+    width: 100%;
+    height: 300px;
+    background-color: purple;
+    
+}
+
+#asd2{
+    display: flex;
+    justify-content: center;
+
+}
+#flex-container4{
+    width: 100%;
+    height: 300px;
+    background-color: green;
+}
+#flex-container5{
+    width: 200%;
+    height: 300px;
+    background-color: yellow;
+    
+}
+#flex-container6{
+    width: 100%;
+    height: 300px;
+    background-color: purple;
+    
+}
+
+#asd3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+
+}
+#flex-container7{
+    width: 100%;
+    height: 300px;
+    background-color: green;
+}
+#flex-container8{
+    width: 200%;
+    height: 300px;
+    background-color: yellow;
+    
+}
+#flex-container9{
+    width: 100%;
+    height: 300px;
+    background-color: purple;
+    
+}
+#asd4{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+#flex-container10{
+    width: 100%;
+    height: 300px;
+    background-color: green;
+}
+#flex-container11{
+    width: 100%;
+    height: 600px;
+    background-color: yellow;
+    order: 1;
+    
+}
+#flex-container12{
+    width: 100%;
+    height: 300px;
+    background-color: purple;
+    
+}
